@@ -1,0 +1,1 @@
+#This error message is telling us that there was an open bracket for an array that was closed with the incorrect character
