@@ -1,0 +1,1 @@
+# The each method returns each number in the array
